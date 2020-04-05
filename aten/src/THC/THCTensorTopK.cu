@@ -15,8 +15,8 @@
 
 #include <THC/THCTensorTopK.cuh>
 
-#include <THC/generic/THCTensorTopK.cu>
-#include <THC/THCGenerateAllTypes.h>
+// #include <THC/generic/THCTensorTopK.cu>
+// #include <THC/THCGenerateAllTypes.h>
 
-#include <THC/generic/THCTensorTopK.cu>
-#include <THC/THCGenerateBFloat16Type.h>
+// #include <THC/generic/THCTensorTopK.cu>
+// #include <THC/THCGenerateBFloat16Type.h>
